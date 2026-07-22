@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "": true
+    },
+    "search.useParentIgnoreFiles": true,
+    "search.exclude": {
+        "": true
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useIgnoreFiles": true
+}
